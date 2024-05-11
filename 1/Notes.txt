@@ -1,0 +1,10 @@
+The creator of Java language is Orcale, a big software company.
+
+Which JDK (java development kit) to use?
+The best choice is LTS (long term support) versions.
+
+Why use a Java LTS version?
+* Stability: LTS versions minimize surprises with bugs and security issues already ironed out.
+* Support: There is a longer window where official support and updates are guaranteed.
+* Ecosystem: Libraries, tools, and frameworks focus their support on LTS versions.
+* Regular versions: They have new features and long-term support.
