@@ -1,0 +1,19 @@
+Install JDK 17 for windows:
+Download link: https://www.oracle.com/java/technologies/
+
+We can use a notepad for writing code, but in case of java, we need a more powerful tool
+called IntelliJ or Eclipse
+
+JShell is a standard component for JDK.
+It reads the command or code segment we type in.
+It evaluates and executes the code, and often allows short cuts to be used.
+It prints out the results of the evaluation or execution.
+It loops back for more input.
+
+JShell runs in a terminal and is useful for quickly trying out new ideas.
+
+JShell does not replace the need for an IDE.
+
+You can open the JShell by opening cmd and writing jshell, then enter.
+-> /help intro : gives an intro of jshell
+-> /help : gives information about commands you can use

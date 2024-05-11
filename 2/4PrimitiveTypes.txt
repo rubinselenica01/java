@@ -1,0 +1,37 @@
+Primitive types are the most basic data types.
+
+The eight primitive data types:
+
+Whole number:   byte
+                short
+                int
+                long
+
+Real number:    float
+                double
+
+Single character: char
+
+Boolean value: boolean
+
+A class is a building block for object-oriented programming, and allows us to build custom
+data types.
+
+Java uses the concept of a wrapper class, for all its eight primitive data types.
+Wrapper classes:    Byte
+                    Short
+                    Integer
+                    Long
+                    Float
+                    Double
+                    Character
+                    Boolean
+
+If we try to assign a larger number than the maximum value into an int,
+we will create something called overflow situation.
+If we try to assign a smaller number than the minimum value into an int,
+we will create something called underflow situation.
+
+We can assign to an int the value: 213_321 and the result will still be 213321.
+
+L is required in java when the numeric value of integer exceeds.

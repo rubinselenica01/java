@@ -1,0 +1,28 @@
+A keyword is any one of the reserved words, that have a predefined meaning in the Java language.
+
+In java language all words are case-sensitive, including the keywords.
+An int, in lower case, is not the same as Int with capital I. Both of them are keywords in java used for
+different purposes.
+
+All java keywords: https://docs.oracle.com/javase/specs/jls/se17/html/jls-3.html#jls-3.9
+
+Variables are a way to store information in the computer. They can be accessed by a name we give them,
+and the computer does the hard work by finding them which are stored in the RAM.
+
+There are lot of data types used for variables, some of them are in keywords list.
+
+The syntax of declaration is: int myFirstNumber = 5;
+Semicolons are used to end a statement.
+
+A declaration statement is used to define a variable by indicating the data type, and the name,
+then optionally to set the variable to a specific value.
+
+Expression is a coding construct that evaluates to a single value.
+
+To access a value you access it by calling the variable's name.
+
+A literal cannot be changed. A literal is the simplest form of an expression and not a variable.
+
+A redeclaring variable is not allowed.
+
+Java operations, hence the term, perform an operation on a variable value.
