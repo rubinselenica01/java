@@ -1,0 +1,3 @@
+Operators in Java are special symbols that perform specific operations on one, two or three operands and then return a result.
+An expression is formed by combining variables, literals, method return values, and operators.
+Operators: +,-,*,/,% .

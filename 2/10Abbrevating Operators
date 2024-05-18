@@ -1,0 +1,6 @@
+Post-fix increment operator: result++;
+Compound Assignment Operator with + sign: result+=1;
+Post-fix decrement operator: result--;
+Compound Assignment Operator with - sign: result-=1;
+Multiplication Compound Assignment: result *=5;
+Division Compound Assignment: result/=5;

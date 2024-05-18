@@ -1,0 +1,22 @@
+Char data type holds only one character and is enclosed within single quotes.
+A char is stored as a 2 byte number, similar to the short. This number is mapped to a single character by Java.
+So, when you print a char, you will see the mapped character, and not the representative number.
+Java supports a unicode value for characters, which you can use to set a char value.
+Unicode is an international encoding standard for use with different languages and scripts
+by which each letter, digit, or symbol is assigned a unique numeric value that
+applies across different platforms and programs.
+
+symbl.cc has all unicodes for character languages.
+
+When you define a character, you can use both unicode or its character value inside single quotes.
+
+Assigning values to a chr variable:
+
+Assignment Type:            Example Code
+a literal character         char myChar = 'D';
+a Unicode value             char myChar = '\u0044';
+an integer value            char myChar = 68;
+
+String can hold multiple characters and is enclosed within double quotes.
+
+A boolean value allows for two opposite choices, true or false, yes or no, one or zero;

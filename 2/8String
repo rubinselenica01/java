@@ -1,0 +1,12 @@
+A String is a class that contains a sequence of characters.
+It is limited by the amount of heap space.
+You can use unicode inside a String.
+
+Strings are immutable, that means you can't change a String after it's created.
+
+When concatenating a String, it is not appended, but instead, a new String is created.
+The old String will get discarded automatically.
+
+If you are doing multiple appending, java supports a class called StringBuilder.
+The StringBuilder class is mutable, meaning it can be changed, but does not share
+String's special features.
