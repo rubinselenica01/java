@@ -1,0 +1,10 @@
+An IDE is the easiest, least error-prone way to develop, manage and deploy Java classes. It provides many
+benefits to developers, including:
+* increased productivity,
+* code completion,
+* refactoring of code,
+* debugging tools,
+* version control,
+* and team development.
+
+IntelliJ IDEA, is one of several, IDE's, available for Java. It is also written in Java, developed by JetBrains.
