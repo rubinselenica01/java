@@ -1,0 +1,12 @@
+Casting means to treat or convert a number, from one type to another. We put the type we want the number
+to be, in parentheses like this:
+(byte)(myMinByteValue/2);
+
+Java uses the int data type by default for numbers.
+So, when we have this statement:
+short value = (-128 / 2); //this should work because java detects the number and it fits into short data type
+
+When we have this statement
+
+short myNewShortValue = (myMinShortValue/2); //it will throw error because we need to specify the type conversion
+as we said, int is java's default data type.
