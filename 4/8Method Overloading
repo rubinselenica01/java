@@ -1,0 +1,13 @@
+Method overloading occurs when a class has multiple methods wth the same name, but the methods
+are declared with different parameters.
+
+Java can resolve which method is called based on the arguments being passed when the method is invoked.
+
+A method signature consists of the same name of the method, and the uniqueness of the declaration
+of its parameters.
+
+A method's return type is not part of the signature.
+
+A parameter name is also not part of the signature.
+
+The type, order, and number of parameters, in conjunction with the name, make a method signature unique.

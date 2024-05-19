@@ -1,0 +1,12 @@
+A method declares executable code that can be invoked, passing a fixed number of values as arguments.
+
+Benefits:
+Reduce code duplications
+Can be executed many times with different results, by passing data to the method in the form of arguments.
+
+Parameters are types of variables and their names. Arguments are values that a method takes.
+
+A return statement returns control to the invoker of a method.
+
+The main method is special in Java, because Java's virtual machine (JVM) looks for the method, with this particular signature,
+and uses it as the entry point for execution of code.

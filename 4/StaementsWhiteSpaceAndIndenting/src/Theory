@@ -1,0 +1,5 @@
+Whitespace is any extra spacing, horizontally or vertically, placed around Java source code.
+It's usually added for human readability purposes.
+In Java, all these extra spaces are ignored.
+
+https://google.github.io/styleguide/javaguide.html#s4.6-whitespace
